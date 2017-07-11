@@ -1,0 +1,1 @@
+production: BROWSER=chrome --require features --format pretty TEST_ENV=production
